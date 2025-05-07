@@ -1,0 +1,49 @@
+/* Basic styling for the AI page */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header, footer {
+    background-color: #19d2c0;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h1, h2, h3 {
+    color: #0D47A1;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #4CAF50;
+    padding-left: 1rem;
+    margin-left: 0;
+}
+
+ol {
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 1rem;
+}
+
+footer {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
